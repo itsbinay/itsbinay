@@ -12,7 +12,7 @@
 <div id="profileviews" align="center">
     <img src="https://komarev.com/ghpvc/?username=itsbinay&style=flat-square&color=blue" alt=""/>
 </div>
-# Binay Gurung
+<h1>Binay Gurung</h1>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsbinay&theme=dark&background=000000)](https://git.io/streak-stats)
